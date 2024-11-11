@@ -24,7 +24,7 @@ I'm a senior AI engineering student passionate about building intelligent system
 ## 📫 How to reach me:
 - LinkedIn: [Atena Jafari Parsa](https://www.linkedin.com/in/atena-jafari-parsa/)
 
-## 😄 Pronouns:
+## 💁🏻‍♀️ Pronouns:
 - She/Her
 
 
