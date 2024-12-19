@@ -6,6 +6,7 @@ I'm a senior AI engineering student passionate about building intelligent system
 - Artificial Intelligence (AI) and Machine Learning
 - Data Science and Data Engineering
 - Natural Language Processing (NLP)
+- Computer Vision
 - Quantum Computing
 
 ## 🌱 I’m currently learning:
