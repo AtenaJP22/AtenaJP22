@@ -8,6 +8,7 @@ I'm a senior AI engineering student passionate about building intelligent system
 - Natural Language Processing (NLP)
 - Computer Vision
 - Quantum Computing
+- Large Language Models (LLMs)
 
 ## 🌱 I’m currently learning:
 - Advanced AI algorithms and frameworks
@@ -15,6 +16,7 @@ I'm a senior AI engineering student passionate about building intelligent system
 - Python and C++ programming
 - Cloud computing and big data technologies
 - Full Stack Development
+- Generative AI
 
 ## 💞️ I’m looking to collaborate on:
 - AI research projects
