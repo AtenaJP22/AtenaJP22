@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AtenaJP22
 
-I'm a senior AI engineering student passionate about building intelligent systems. I'm currently exploring cutting-edge fields like AI, machine learning, data science.
+I'm a junior AI engineer passionate about building intelligent systems. I'm currently exploring cutting-edge fields like AI, machine learning, data science.
 
 ## 👀 I’m interested in:
 - Artificial Intelligence (AI) and Machine Learning
